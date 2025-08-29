@@ -66,7 +66,7 @@ Example outputs (maps ↔ streets) after various epochs:
 
 | Epoch 1 | Epoch 50 | Epoch 100 | Epoch 200 |
 |---------|----------|-----------|-----------|
-| ![e1](generated-images-0001.png) | ![e50](generated-images-0050.png) | ![e100](generated-images-0100.png) | ![e200](generated-images-0200.png) |
+| ![e1](./generated/generated-images-0001.png) | ![e50](./generated/generated-images-0050.png) | ![e100](./generated/generated-images-0100.png) | ![e200](./generated/generated-images-0200.png) |
 
 ---
 

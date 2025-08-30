@@ -13,7 +13,7 @@ The project includes model training, visualization of outputs, loss tracking, an
 - **Loss Monitoring** with per-epoch logs and plots.  
 - **Image Sampling** at fixed intervals during training.  
 - **Checkpointing** for model weights.  
-- **Interactive Gradio Demo** to test trained models with uploaded images.  
+- **Interactive Gradio Demo** to test trained models with uploaded images.
 
 ---
 
